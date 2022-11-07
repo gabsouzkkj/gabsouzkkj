@@ -7,12 +7,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsouzkkj&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=gabsouzkkj&theme=gotham&hide_border=true&area=true)
+![Gabriel Philippe's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabsouzkkj&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)]
 
 <div align="center"> 
-<a href="https://instagram.com/souz,gabkkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:philippegabriel680@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/souzgabkkj/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://instagram.com/souz,gabkkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:philippegabriel680@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%00bfbf?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/souzgabkkj/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%00bfbf?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
 
