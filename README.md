@@ -35,6 +35,8 @@
 ### Tools:
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-  ![Snake animation](https://github.com/gabsouzkkj/gabsouzkkj/blob/output/github-contribution-grid-snake.svg)
+ ### Snake 🐍:
+ 
+ ![Snake animation](https://github.com/gabsouzkkj/gabsouzkkj/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
