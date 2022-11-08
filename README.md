@@ -15,8 +15,6 @@
 <a href = "mailto:philippegabriel680@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/souzgabkkj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-  
-![Snake animation](https://github.com/gabsouzkkj/gabsouzkkj/blob/output/github-contribution-grid-snake.svg)
 
 ### My experience within the area:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -37,4 +35,6 @@
 ### Tools:
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
+  ![Snake animation](https://github.com/gabsouzkkj/gabsouzkkj/blob/output/github-contribution-grid-snake.svg)
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
