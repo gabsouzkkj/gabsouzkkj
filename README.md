@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsouzkkj&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-[![Gabriel Philippe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&bg_color=993399&color=993399&line=00abc2&point=92c6d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center"> 
 <a href="https://instagram.com/souz.gabkkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -16,7 +14,6 @@
 <a href="https://www.linkedin.com/in/souzgabkkj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-![Snake animation](https://github.com/gabsouzkkj/gabsouzkkj/blob/output/github-contribution-grid-snake.svg)
   
 ### My experience within the area:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
