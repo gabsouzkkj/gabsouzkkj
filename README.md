@@ -1,34 +1,88 @@
+<!--Banner-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Gabriel+Philippe;I+live+in+Brazil..;Studying+System+Development+at+SENAI;Welcome+to+my+profile!+<3)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabsouzkkj&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=993399&text_color=FFFFFF&bg_color=0d1117" alt="Gabriel Philippe GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsouzkkj&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="">
 </div>
 
-<div align="center"> 
-<a href="https://instagram.com/souz.gabkkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:philippegabriel680@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/souzgabkkj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+Gabriel Philippe (Developer / Programador)
+<br /> 
 
-  
-### My experience within the area:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<!--Start Intro-->               
+<p align="left">Sou entusiasta da programação, atualmente aprofundando meus conhecimentos no SENAI Pompeia, uma instituição renomada na formação de profissionais de TI.</p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+- ✍ No SENAI Pompeia, tive a oportunidade de trabalhar em projetos práticos que simularam cenários reais do mercado, preparando-me para desafios contemporâneos em TI.
+- 🌱 Compreensão total do ciclo de vida de aplicações, desde o levantamento de requisitos, passando pelo desenvolvimento, até a implementação e manutenção.
+- 💁‍♂️ Experiência em metodologias ágeis, como Scrum e Kanban, para entregas eficientes e em tempo hábil.
+- 🏙 Estou sempre buscando me conectar com profissionais e empresas que compartilham da mesma paixão por tecnologia e inovação. 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<!--End Intro-->
+<br />
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gabsouzkkj&label=Visualização%20no%20perfil&color=770677&style=for-the-badge&logo=star" alt="gabsouzkkj" style="padding-right:20px;" />
+</p>
+<br />
 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+ 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+</p>
+<br />
 
-### Tools:
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
+
+<p align="center">
+  <a href="https://github.com/gabsouzkkj/">
+    <img src="https://github-profile-trophy.vercel.app/?username=gabsouzkkj&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>STATUS DO GITHUB</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gabsouzkkj">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabsouzkkj&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>ESTATÍSTICAS</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gabsouzkkj">
+          <img align="center" src="https://streak-stats.demolab.com?user=gabsouzkkj&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>ÚLTIMO PROJETO</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gabsouzkkj">
+          <img align="center" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsouzkkj&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>CONTRIBUIDORES</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gabsouzkkj">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=gabsouzkkj&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
