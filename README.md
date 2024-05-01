@@ -3,10 +3,10 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="">
+  <img align="right" width="40%" src="https://media.discordapp.net/attachments/916714026019479622/1235069625222566019/image.png?ex=663307b9&is=6631b639&hm=9cdab699ea69d15935e9d1288c212714f6d43f5f73b2da8dc50b4b62a46b10dc&=&format=webp&quality=lossless&width=481&height=671">
 </div>
 
-Gabriel Philippe (Developer / Programador)
+👋 Gabriel Philippe (Developer / Programador)
 <br /> 
 
 <!--Start Intro-->               
@@ -27,7 +27,7 @@ Gabriel Philippe (Developer / Programador)
 
  
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+  <img width="500px;" src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10" />
 </p>
 <br />
 
