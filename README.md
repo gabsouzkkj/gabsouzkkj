@@ -38,51 +38,9 @@
   </a>
 </p>
 <br />
-
-<!--Github stats Table--> 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>STATUS DO GITHUB</strong></h3>
-      <p align="center">
-        <a href="https://github.com/gabsouzkkj">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabsouzkkj&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>ESTATÍSTICAS</strong></h3>
-      <p align="center">
-        <a href="https://github.com/gabsouzkkj">
-          <img align="center" src="https://streak-stats.demolab.com?user=gabsouzkkj&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>ÚLTIMO PROJETO</strong></h3>
-      <p align="center">
-        <a href="https://github.com/gabsouzkkj">
-          <img align="center" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsouzkkj&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>CONTRIBUIDORES</strong></h3>
-      <p align="center">
-        <a href="https://github.com/gabsouzkkj">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=gabsouzkkj&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
 <!--Contribution Graph-->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&bg_color=011627&color=FFFFFF&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
