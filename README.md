@@ -27,7 +27,7 @@
 
  
 <p align="center">
-  <img width="500px;" src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,mysq,postgres,mongo,git,vscode,aws,postman,supabase,linux&perline=10" />
+  <img width="500px;" src="https://skillicons.dev/icons?i=js,html,css,py,nodejs,figma,aws,gcp,azure,git,androidstudio,angular,bash,bootstrap,lua,mysql,notion,nodejs,postman,powershell,robloxstudio,sass,windows,vscode" />
 </p>
 <br />
 
@@ -40,7 +40,7 @@
 <br />
 <!--Contribution Graph-->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&bg_color=011627&color=FFFFFF&line=FF008E&point=FFCD1E&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&theme=react&color=FFFFFF&line=FF008E&point=FFCD1E&hide_border=false" border-radius="15">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
