@@ -43,4 +43,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&bg_color=011627&color=FFFFFF&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFCD1E&height=120&section=footer"/>
