@@ -1,5 +1,5 @@
 <!--Banner-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF008E&height=120&section=header"/>
 
 <!--Night Owl image-->
 <div>
