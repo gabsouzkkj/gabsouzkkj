@@ -27,7 +27,7 @@
 
  <br /> 
 <p>
-  <img width="500px;" src="https://skillicons.dev/icons?i=js,html,css,py,nodejs,figma,aws,gcp,azure,git,androidstudio,angular,bash,bootstrap,lua,mysql,notion,nodejs,postman,powershell,robloxstudio,sass,windows,vscode" />
+  <img width="480px;" src="https://skillicons.dev/icons?i=js,html,css,py,nodejs,figma,aws,gcp,azure,git,androidstudio,angular,bash,bootstrap,lua,mysql,notion,nodejs,postman,powershell,robloxstudio,sass,windows,vscode" />
 </p>
 <br />
 
