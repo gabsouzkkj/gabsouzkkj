@@ -21,7 +21,7 @@
 <br />
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gabsouzkkj&label=Visualização%20no%20perfil&color=770677&style=for-the-badge&logo=star" alt="gabsouzkkj" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=gabsouzkkj&label=Visualização%20no%20perfil&color=FF008E&style=for-the-badge&logo=star" alt="gabsouzkkj" style="padding-right:20px;" />
 </p>
 <br />
 
