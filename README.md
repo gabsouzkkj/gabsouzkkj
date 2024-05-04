@@ -8,7 +8,7 @@
 
 👋 Gabriel Philippe (Developer / Programador) 
 <p> <a href="https://www.linkedin.com/in/gabsouz/"><img src="https://img.shields.io/badge/-@gabsouz-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabsouz/" alt="LinkedIn Badge"></a>
-<a href="https://www.instagram.com/gabsouzkkj/"><img src="https://img.shields.io/badge/-@gabsouzkkj-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Instagram&amp;link=https://www.instagram.com/gabsouzkkj/" alt="Instagram Badge"></a></p>
+<a href="https://www.instagram.com/gabsouzkkj/"><img src="https://img.shields.io/badge/-@gabsouzkkj-DD2A7B?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Instagram&amp;link=https://www.instagram.com/gabsouzkkj/" alt="Instagram Badge"></a></p>
 <!--Start Intro-->               
 <p align="left">Sou entusiasta da programação, atualmente aprofundando meus conhecimentos no SENAI Pompeia, uma instituição renomada na formação de profissionais de TI.</p>
 
