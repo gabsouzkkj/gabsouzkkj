@@ -31,16 +31,17 @@
 </p>
 <br />
 
-
+<!--Contribution Graph-->
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&theme=react&color=FFFFFF&line=FF008E&point=FFCD1E&hide_border=false" border-radius="15">
+</div>
+<br />
 <p>
   <a href="https://github.com/gabsouzkkj/">
     <img src="https://github-profile-trophy.vercel.app/?username=gabsouzkkj&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 <br />
-<!--Contribution Graph-->
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&theme=react&color=FFFFFF&line=FF008E&point=FFCD1E&hide_border=false" border-radius="15">
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
