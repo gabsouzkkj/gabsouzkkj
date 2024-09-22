@@ -2,9 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://media.discordapp.net/attachments/916714026019479622/1235069625222566019/image.png?ex=663307b9&is=6631b639&hm=9cdab699ea69d15935e9d1288c212714f6d43f5f73b2da8dc50b4b62a46b10dc&=&format=webp&quality=lossless&width=481&height=671">
-</div>
+
 
 👋 Gabriel Philippe (Developer / Programador) 
 <p> <a href="https://www.linkedin.com/in/gabsouz/"><img src="https://img.shields.io/badge/-@gabsouz-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabsouz/" alt="LinkedIn Badge"></a>
