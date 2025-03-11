@@ -29,7 +29,7 @@
 
 <!--Contribution Graph-->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&theme=react&color=FFFFFF&line=FF008E&point=FFCD1E&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsouzkkj&theme=xcode&color=FFFFFF&line=FFFFFF&point=6364FF&hide_border=false" border-radius="15">
 </div>
 <br />
 
