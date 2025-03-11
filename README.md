@@ -1,14 +1,13 @@
 <!--Banner-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6364FF&height=120&section=header"/>
 
 <!--Night Owl image-->
 
-
-👋 Gabriel Philippe (Developer / Programador) 
-<p> <a href="https://www.linkedin.com/in/gabsouz/"><img src="https://img.shields.io/badge/-@gabsouz-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabsouz/" alt="LinkedIn Badge"></a>
-<a href="https://www.instagram.com/gabsouzkkj/"><img src="https://img.shields.io/badge/-@gabsouzkkj-DD2A7B?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Instagram&amp;link=https://www.instagram.com/gabsouzkkj/" alt="Instagram Badge"></a></p>
+👋 Gabriel Philippe (Developer /) 
+<p> <a href="https://www.linkedin.com/in/gabsouz/"><img src="https://img.shields.io/badge/LinkedIn-6364FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.instagram.com/gabsouzkkj/"><img src="https://img.shields.io/badge/Instagram-6364FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a></p>
 <!--Start Intro-->               
-<p align="left">Sou entusiasta da programação, atualmente aprofundando meus conhecimentos no SENAI Pompeia, uma instituição renomada na formação de profissionais de TI.</p>
+<p align="left">Sou entusiasta da programação, atualmente aprofundando meus conhecimentos na Universidade de Marília, cursando Análise e Desenvolvimento de Sistemas.</p>
 
 - ✍ No SENAI Pompeia, tive a oportunidade de trabalhar em projetos práticos que simularam cenários reais do mercado, preparando-me para desafios contemporâneos em TI.
 - 🌱 Compreensão total do ciclo de vida de aplicações, desde o levantamento de requisitos, passando pelo desenvolvimento, até a implementação e manutenção.
@@ -19,13 +18,12 @@
 <br />
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gabsouzkkj&label=Visualização%20no%20perfil&color=FF008E&style=for-the-badge&logo=star" alt="gabsouzkkj" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=gabsouzkkj&label=Visualização%20no%20perfil&color=6364FF&style=for-the-badge&logo=star" alt="gabsouzkkj" style="padding-right:20px;" />
 </p>
 <br />
 
- <br /> 
 <p>
-  <img width="480px;" src="https://skillicons.dev/icons?i=js,html,css,py,nodejs,figma,aws,gcp,azure,git,androidstudio,angular,bash,bootstrap,lua,mysql,notion,nodejs,postman,powershell,robloxstudio,sass,windows,vscode" />
+  <img width="480px;" src="https://skillicons.dev/icons?i=js,html,css,py,nodejs,figma,aws,gcp,azure,git,androidstudio,angular,bash,bootstrap,lua,mysql,notion,nodejs,postman,powershell,robloxstudio,sass,windows,vscode,cisco" />
 </p>
 <br />
 
@@ -45,4 +43,4 @@
 <br />
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6364FF&height=120&section=footer"/>
