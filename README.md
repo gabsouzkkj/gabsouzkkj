@@ -5,7 +5,7 @@
 
 👋 Gabriel Philippe (Developer /) 
 <p> <a href="https://www.linkedin.com/in/gabsouz/"><img src="https://img.shields.io/badge/LinkedIn-6364FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.instagram.com/gabsouzkkj/"><img src="https://img.shields.io/badge/Instagram-6364FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a></p>
+<a href="https://www.instagram.com/gabsouzakkj/"><img src="https://img.shields.io/badge/Instagram-6364FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a></p>
 <!--Start Intro-->               
 <p align="left">Sou entusiasta da programação, atualmente aprofundando meus conhecimentos na Universidade de Marília, cursando Análise e Desenvolvimento de Sistemas.</p>
 
