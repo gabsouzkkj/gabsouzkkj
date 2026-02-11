@@ -33,13 +33,13 @@
 </div>
 <br />
 
-<div align="center">
+<!-- <div align="center">
 <p>
   <a href="https://github.com/gabsouzkkj/">
     <img src="https://github-profile-trophy.vercel.app/?username=gabsouzkkj&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
-  </div>
+  </div> -->
 <br />
 
 
